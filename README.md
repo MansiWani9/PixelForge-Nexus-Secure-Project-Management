@@ -67,9 +67,8 @@ Users can update their own passwords from the profile settings. Password updates
 **5. System Setup and Deployment
 Cloning and Installation**
 To install and run the application locally:
-git clone https://github.com/Roshan-504/PixelForge-Nexus-Secure-Project-Management.git
 cd PixelForge-Nexus-Secure-Project-Management
-Backend Setup
+**Backend Setup**
 cd backend
 npm install
 Create .env file:
